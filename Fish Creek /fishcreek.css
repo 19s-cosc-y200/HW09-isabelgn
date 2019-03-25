@@ -1,0 +1,40 @@
+/*Project Name: Fish Creek (HW9)
+Author: Isabel Nichols
+Date Last Modified: March 25, 20198*/
+body{
+    background-color: #FFFFFF;
+    color:#003366;
+    font-family: sans-serif;
+}
+header{
+    background-color: #003366;
+    color: #AEC3E3;
+    font-family: Georgia;
+}
+h1{
+    line-height: 200%;
+    text-indent: 1em;
+}
+nav{
+    font-weight:bold;
+}
+dt{
+    color:#5280C5;
+    font-size: 1.1em;
+    font-weight:bold;
+    font-family: Georgia;
+}
+.category{
+    font-weight: bold;
+    color:#5380C5;
+    font-family: Georgia;
+}
+footer{
+    font-size: .70em;
+}
+#wrapper{
+    width: 80%;
+    margin-right:auto;
+    margin-left:auto;
+    background color: #F0F0F0;
+}
